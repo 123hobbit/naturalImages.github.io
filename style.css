@@ -1,0 +1,109 @@
+ 
+
+#carousel-example-generic{
+    margin-top:  82px;
+  
+}
+h4{
+    color:white;
+    
+}
+.natureImg1{
+    color:#33cc42;
+}
+.animalImg1{
+    color:white;
+}
+.spaceImg1{
+    color:blue;
+}
+
+#natureIm{
+    border-radius:25px;
+    background-image: url("natureImages/green 800 400.jpg");
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+#animalIm{
+    border-radius:25px;
+    background-image: url("animalImages/images (6).jpg");
+     background-repeat: no-repeat;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#spaceIm{
+    border-radius:25px;
+    background-image: url("spaceImages/cb4d60fccc6d0ae8e1a14fbb24c87f9f--space-planets-the-planets.jpg");
+     background-repeat: no-repeat;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#natureRow{
+    padding-bottom: 20px;
+}
+#animalRow{
+    padding-bottom: 20px;
+}
+#spaceRow{
+    padding-bottom: 20px;
+}
+#comcarousel-cont{
+    background-color: #bab2ad;
+}
+/*footer*/
+#mainfoter{
+    padding-top:20px;
+}
+h5{
+   color: black;
+}
+#fotercc{
+    text-align: center;
+}
+/*contact*/
+#contactForm{
+    padding-top: 150px;
+}
+#first_name{
+    width: 400px;
+}
+#last_name{
+    width:400px;
+}
+#email{
+    width:400px;
+}
+#submitbtn{
+    color:white;
+}
+/*about*/
+#aboutweb{
+    padding-top: 200px;
+}
+/*nature images page*/
+#natureImagesPage{
+    padding: 70px 0px 25px 0px;
+}
+
+/*nature image page*/
+#natureImagesPage{
+    padding: 90px 20px 20px 20px;
+}
+/*animal image page*/
+#animalImagesPage{
+    padding: 90px 20px 20px 20px;
+}
+/*space image page*/
+#spaceImagesPage{
+    padding: 90px 20px 20px 20px;
+}
